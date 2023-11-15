@@ -1,0 +1,115 @@
+<!-- Name: hala lahgui
+    ID: 14313673
+ -->
+ <!DOCTYPE html>
+ <html lang="en" dir="ltr">
+ 
+ <head>
+   <meta charset="utf-8">
+   <meta name="author" content="Hala Lahgui">
+   <meta name="description" content="I am a Senior Technician">
+   <meta name="keywords" content="Senior, Technician,electronic">
+   <title>Hala Personal Website &#129418;</title>
+ </head>
+ 
+ <body>
+   <table>
+     <tr>
+       <td>
+         <img src="Hala.jpg" alt="Leaf in water" width="150">
+       </td>
+ 
+       <td>
+         <h1>Hala Lahgui</h1>
+         <em>Computer Science Student
+           <br>
+           <a href="https://Esprit.TN"><strong>Esprit</strong></a>
+         </em>
+       </td>
+ 
+     </tr>
+   </table>
+ 
+   <p>
+     I am a  Student at Esprit University. Also, I am a  Senior Technician. I completed my Bachelors degree three year ago. My expirence in web development just Started.
+   </p>
+   <hr />
+ 
+   <h3>Education</h3>
+   <ul type="Disc">
+     <li>Degree in Electric</li>
+     <li>Bachelors of technical</li>
+     <li>Lycéé Ibn Mandhour </li>
+   </ul>
+   <hr>
+ 
+   <h3>It Skills</h3>
+   <table>
+     <thead>
+       <th width="120" align="Left">Skill</th>
+       <th width="160" align="Left">Level of Experience</th>
+       <th width="120" align="Left">Stars</th>
+     </thead>
+     <tbody>
+       <tr>
+         <td>Electronique De Commande</td>
+         <td>Expert</td>
+         <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+       <tr>
+         <td>Traveaux Pratique Transmission de Signaux</td>
+         <td>Expert</td>
+         <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+       <tr>
+         <td>Automatisme</td>
+         <td>Intermediate</td>
+         <td>&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+       <tr>
+         <td>labview</td>
+         <td>Intermediate</td>
+         <td>&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+       <tr>
+         <td>matlab</td>
+         <td>Intermediate</td>
+         <td>&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+       <tr>
+         <td>PSoC Designer</td>
+         <td>Intermediate</td>
+         <td>&#11088;&#11088;&#11088;</td>
+       </tr>
+ 
+     </tbody>
+   </table>
+   <hr>
+ 
+   <h3>Courses & Training</h3>
+   <ol type="A">
+     <li>Itroductory Course.</li>
+ 
+     <li> Practical Training  (Electric in general , Eletronics in particular) in ISET NABEUL (Institue Superieure Des Etudes Technologique of NABEUL).</li>
+ 
+     <li>Course Devlopment.</li>
+ 
+     <li>End Of Studies Project  last Course In TESCA TUNISIA .</li>
+ 
+     
+ 
+   </ol>
+   <hr />
+ 
+   <a download href="MyCV.pdf">Get a copy from full resume</a>
+   <br />
+   <a href="contactMe.html">Contact me</a>
+ 
+ </body>
+ 
+ </html>
